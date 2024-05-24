@@ -7,4 +7,7 @@ Drawing nested squares in MATLAB
 ###My first attempt which included general search
 ::::::
 ------
-[IMAGE](https://github.com/artafps/Drawing-nested-squares/blob/main/photo_2024-05-03_17-46-01.jpg)
+
+<p align="center">
+  <a href="https://github.com/artafps/Drawing-nested-squares" target="blank"><img src="https://github.com/artafps/Drawing-nested-squares/blob/main/photo_2024-05-03_17-46-01.jpg" alt="Nest Logo" /></a>
+</p>
