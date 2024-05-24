@@ -2,10 +2,10 @@
 Drawing nested squares in MATLAB
 
 
-#Hello friends, this is my project
-##Drawing nested squares
-###My first attempt which included general search
-::::::
+# Hello friends, this is my project
+## Drawing nested squares
+### My first attempt which included general search
+
 ------
 
 <p align="center">
