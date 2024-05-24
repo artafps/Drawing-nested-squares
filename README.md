@@ -11,3 +11,11 @@ Drawing nested squares in MATLAB
 <p align="center">
   <a href="https://github.com/artafps/Drawing-nested-squares" target="blank"><img src="https://github.com/artafps/Drawing-nested-squares/blob/main/photo_2024-05-03_17-46-01.jpg" alt="Nest Logo" /></a>
 </p>
+
+
+----------
+# What I was looking for
+--------
+<p align="center">
+  <a href="https://github.com/artafps/Drawing-nested-squares" target="blank"><img src="https://github.com/artafps/Drawing-nested-squares/blob/main/nested-squares-calculations.png" alt="Nest Logo" /></a>
+</p>
