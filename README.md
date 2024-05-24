@@ -15,12 +15,15 @@ Drawing nested squares in MATLAB
 
 ----------
 # What I was looking for
+
 --------
 <p align="center">
   <a href="https://github.com/artafps/Drawing-nested-squares" target="blank"><img src="https://github.com/artafps/Drawing-nested-squares/blob/main/nested-squares-calculations.png" alt="Nest Logo" /></a>
 </p>
 -----
+
 # And finally I found the answer to the problem
+
 <p align="center">
   <a href="https://github.com/artafps/Drawing-nested-squares" target="blank"><img src="https://github.com/artafps/Drawing-nested-squares/blob/main/Screenshot%202024-05-24%20190930.png" alt="Nest Logo" /></a>
 </p>
